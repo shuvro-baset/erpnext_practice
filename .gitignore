@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+./erpnext/node_modules
+./frappe/node_modules
