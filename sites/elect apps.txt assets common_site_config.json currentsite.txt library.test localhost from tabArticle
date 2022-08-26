@@ -1,0 +1,25 @@
++--------------+--------------+------+-----+---------+-------+
+| Field        | Type         | Null | Key | Default | Extra |
++--------------+--------------+------+-----+---------+-------+
+| name         | varchar(140) | NO   | PRI | NULL    |       |
+| creation     | datetime(6)  | YES  |     | NULL    |       |
+| modified     | datetime(6)  | YES  | MUL | NULL    |       |
+| modified_by  | varchar(140) | YES  |     | NULL    |       |
+| owner        | varchar(140) | YES  |     | NULL    |       |
+| docstatus    | int(1)       | NO   |     | 0       |       |
+| parent       | varchar(140) | YES  | MUL | NULL    |       |
+| parentfield  | varchar(140) | YES  |     | NULL    |       |
+| parenttype   | varchar(140) | YES  |     | NULL    |       |
+| idx          | int(8)       | NO   |     | 0       |       |
+| article_name | varchar(140) | YES  |     | NULL    |       |
+| image        | text         | YES  |     | NULL    |       |
+| author       | varchar(140) | YES  |     | NULL    |       |
+| description  | longtext     | YES  |     | NULL    |       |
+| isbn         | varchar(140) | YES  |     | NULL    |       |
+| status       | varchar(140) | YES  |     | NULL    |       |
+| publisher    | varchar(140) | YES  |     | NULL    |       |
+| _user_tags   | text         | YES  |     | NULL    |       |
+| _comments    | text         | YES  |     | NULL    |       |
+| _assign      | text         | YES  |     | NULL    |       |
+| _liked_by    | text         | YES  |     | NULL    |       |
++--------------+--------------+------+-----+---------+-------+

@@ -1,0 +1,5 @@
+2022-08-09 10:15:03,785 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for localhost
+2022-08-09 10:15:03,849 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for localhost
+2022-08-09 10:15:04,118 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for localhost
+2022-08-09 10:15:41,179 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for localhost
+2022-08-09 10:15:41,665 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for localhost

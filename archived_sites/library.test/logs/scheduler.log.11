@@ -1,0 +1,8 @@
+2022-06-28 18:20:32,868 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-06-28 18:20:33,020 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-06-28 18:20:33,077 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-06-28 18:20:33,254 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-06-28 18:20:33,315 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-06-28 18:20:33,500 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-06-28 18:20:33,558 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for library.test
+2022-06-28 18:20:33,697 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for library.test

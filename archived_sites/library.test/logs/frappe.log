@@ -1,0 +1,24 @@
+2022-06-28 09:30:58,194 ERROR frappe New Exception collected with id: 2022-06-28 09:30:58.140107-127.0.0.1-43a
+Site: library.test
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Membership","name":"new-library-membership-1","__islocal":1,"__unsaved":1,"owner":"Administrator","paid":0,"__run_link_triggers":1,"library_member":"LM00002"}', 'cmd': 'frappe.client.save'}
+2022-06-28 09:32:07,879 ERROR frappe New Exception collected with id: 2022-06-28 09:32:07.821470-127.0.0.1-d10
+Site: library.test
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-06-28 09:32:24,665 ERROR frappe New Exception collected with id: 2022-06-28 09:32:24.662607-127.0.0.1-9b3
+Site: library.test
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-06-28 09:35:01,740 ERROR frappe New Exception collected with id: 2022-06-28 09:35:01.737984-127.0.0.1-cb1
+Site: library.test
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-06-28 09:36:46,476 ERROR frappe New Exception collected with id: 2022-06-28 09:36:46.472834-127.0.0.1-cfc
+Site: library.test
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-06-29 16:08:44,011 ERROR frappe New Exception collected with id: 2022-06-29 16:08:43.944538-127.0.0.1-6bf
+Site: library.test
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-06-30 01:19:58,477 ERROR frappe New Exception collected with id: 2022-06-30 01:19:58.473693-127.0.0.1-fd3
+Site: library.test
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-06-30 01:24:38,189 ERROR frappe New Exception collected with id: 2022-06-30 01:24:38.186494-127.0.0.1-b84
+Site: library.test
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}

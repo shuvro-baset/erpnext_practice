@@ -1,0 +1,107 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "format:{vehicle_name}-###",
+ "creation": "2022-07-20 10:50:49.350627",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "vehicle_info_section",
+  "vehicle_price",
+  "entry_date",
+  "chassis_number",
+  "vehicle_name",
+  "vehicle_price_section",
+  "company_price",
+  "customer_price",
+  "sale_price",
+  "customize"
+ ],
+ "fields": [
+  {
+   "fieldname": "vehicle_info_section",
+   "fieldtype": "Section Break",
+   "label": "Vehicle Info"
+  },
+  {
+   "fieldname": "vehicle_price",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Series",
+   "reqd": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "entry_date",
+   "fieldtype": "Date",
+   "label": "Entry Date"
+  },
+  {
+   "fetch_from": "chassis_number.car_model",
+   "fieldname": "vehicle_name",
+   "fieldtype": "Data",
+   "label": "Vehicle Name",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "vehicle_details.chassis_number",
+   "fieldname": "chassis_number",
+   "fieldtype": "Link",
+   "label": "Vehicle Chassis no",
+   "options": "Vehicle Details",
+   "reqd": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "vehicle_price_section",
+   "fieldtype": "Section Break",
+   "label": "Vehicle Price"
+  },
+  {
+   "fieldname": "company_price",
+   "fieldtype": "Currency",
+   "label": "Company Price"
+  },
+  {
+   "fieldname": "customer_price",
+   "fieldtype": "Currency",
+   "label": "Customer Price"
+  },
+  {
+   "fieldname": "sale_price",
+   "fieldtype": "Currency",
+   "label": "Sale Price",
+   "read_only": 1
+  },
+  {
+   "fieldname": "customize",
+   "fieldtype": "Table",
+   "label": "Customize",
+   "options": "Customize"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2022-07-21 10:38:05.217144",
+ "modified_by": "Administrator",
+ "module": "Vehicle Management",
+ "name": "Vehicle Price",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}

@@ -1,0 +1,62 @@
+2022-08-10 00:21:54,303 DEBUG scheduler Queued events for site localhost
+2022-08-10 00:22:54,573 DEBUG scheduler Queued events for site localhost
+2022-08-10 00:23:54,887 DEBUG scheduler Queued events for site localhost
+2022-08-10 00:24:55,148 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for localhost
+2022-08-10 00:24:55,222 DEBUG scheduler Queued events for site localhost
+2022-08-10 00:24:55,287 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for localhost
+2022-08-10 00:24:55,344 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for localhost
+2022-08-10 00:24:55,523 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for localhost
+2022-08-10 00:24:55,583 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for localhost
+2022-08-10 00:24:55,739 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for localhost
+2022-08-10 00:24:55,793 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for localhost
+2022-08-10 00:24:55,980 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for localhost
+2022-08-10 00:24:56,035 INFO scheduler Scheduled Job Start: frappe.monitor.flush for localhost
+2022-08-10 00:24:56,144 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for localhost
+2022-08-10 00:24:56,200 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for localhost
+2022-08-10 00:24:56,320 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for localhost
+2022-08-10 00:24:56,376 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for localhost
+2022-08-10 00:24:56,512 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for localhost
+2022-08-10 00:24:56,565 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for localhost
+2022-08-10 00:24:56,729 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for localhost
+2022-08-10 00:24:56,789 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for localhost
+2022-08-10 00:24:56,962 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for localhost
+2022-08-10 00:24:57,021 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for localhost
+2022-08-10 00:24:57,139 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for localhost
+2022-08-10 00:25:55,487 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for localhost
+2022-08-10 00:25:55,509 DEBUG scheduler Queued events for site localhost
+2022-08-10 00:25:55,686 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for localhost
+2022-08-10 00:26:55,796 DEBUG scheduler Queued events for site localhost
+2022-08-10 00:27:56,080 DEBUG scheduler Queued events for site localhost
+2022-08-10 00:28:56,334 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for localhost
+2022-08-10 00:28:56,388 DEBUG scheduler Queued events for site localhost
+2022-08-10 00:28:56,471 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for localhost
+2022-08-10 00:28:56,525 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for localhost
+2022-08-10 00:28:56,672 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for localhost
+2022-08-10 00:28:56,720 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for localhost
+2022-08-10 00:28:56,847 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for localhost
+2022-08-10 00:28:56,900 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for localhost
+2022-08-10 00:28:57,086 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for localhost
+2022-08-10 00:28:57,141 INFO scheduler Scheduled Job Start: frappe.monitor.flush for localhost
+2022-08-10 00:28:57,250 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for localhost
+2022-08-10 00:28:57,305 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for localhost
+2022-08-10 00:28:57,414 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for localhost
+2022-08-10 00:28:57,481 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for localhost
+2022-08-10 00:28:57,617 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for localhost
+2022-08-10 00:28:57,666 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for localhost
+2022-08-10 00:28:57,822 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for localhost
+2022-08-10 00:28:57,875 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for localhost
+2022-08-10 00:28:58,050 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for localhost
+2022-08-10 00:28:58,104 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for localhost
+2022-08-10 00:28:58,228 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for localhost
+2022-08-10 00:29:56,664 DEBUG scheduler Queued events for site localhost
+2022-08-10 00:30:56,948 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for localhost
+2022-08-10 00:30:56,986 DEBUG scheduler Queued events for site localhost
+2022-08-10 00:30:57,222 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for localhost
+2022-08-10 00:30:57,286 INFO scheduler Scheduled Job Start: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for localhost
+2022-08-10 00:30:57,522 INFO scheduler Scheduled Job Complete: erpnext.manufacturing.doctype.bom_update_log.bom_update_log.resume_bom_cost_update_jobs for localhost
+2022-08-10 00:30:57,587 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for localhost
+2022-08-10 00:30:57,843 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for localhost
+2022-08-10 00:30:57,908 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for localhost
+2022-08-10 00:30:58,189 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for localhost
+2022-08-10 00:30:58,252 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for localhost
+2022-08-10 00:30:58,484 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for localhost

@@ -1,0 +1,216 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "VA.VD.###",
+ "creation": "2022-07-12 12:32:33.180508",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "vehicle_info_section",
+  "vehicle_availability",
+  "status_date",
+  "chassis_number",
+  "vehicle_name",
+  "model_year",
+  "shape",
+  "column_break_5",
+  "auction_grade",
+  "color",
+  "milage",
+  "cc",
+  "description",
+  "car_availability_status_section",
+  "status",
+  "amended_from",
+  "port_location",
+  "shed_number",
+  "ship_details",
+  "inhouse_address",
+  "workshop",
+  "other"
+ ],
+ "fields": [
+  {
+   "fieldname": "vehicle_info_section",
+   "fieldtype": "Section Break",
+   "label": "Vehicle Info"
+  },
+  {
+   "fieldname": "status_date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "Status Date",
+   "reqd": 1
+  },
+  {
+   "fieldname": "amended_from",
+   "fieldtype": "Link",
+   "label": "Amended From",
+   "no_copy": 1,
+   "options": "Vehicle Availability",
+   "print_hide": 1,
+   "read_only": 1
+  },
+  {
+   "fetch_from": "chassis_number.car_model",
+   "fieldname": "vehicle_name",
+   "fieldtype": "Data",
+   "label": "Vehicle Name",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "chassis_number.auction_grade",
+   "fieldname": "auction_grade",
+   "fieldtype": "Data",
+   "label": "Auction Grade",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "chassis_number.color",
+   "fieldname": "color",
+   "fieldtype": "Data",
+   "label": "Color",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "chassis_number.milage",
+   "fieldname": "milage",
+   "fieldtype": "Data",
+   "label": "Milage",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "chassis_number.cc",
+   "fieldname": "cc",
+   "fieldtype": "Data",
+   "label": "CC",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "chassis_number.description",
+   "fieldname": "description",
+   "fieldtype": "Data",
+   "label": "Description",
+   "read_only": 1
+  },
+  {
+   "fieldname": "car_availability_status_section",
+   "fieldtype": "Section Break",
+   "label": "Car Availability Status"
+  },
+  {
+   "fieldname": "status",
+   "fieldtype": "Select",
+   "label": "Status",
+   "options": "Empty\nPort\nOnship\nInhouse\nWorkshop\nOther"
+  },
+  {
+   "fetch_from": "chassis_number.model_year",
+   "fieldname": "model_year",
+   "fieldtype": "Data",
+   "label": "Model Year",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "chassis_number.shape",
+   "fieldname": "shape",
+   "fieldtype": "Data",
+   "label": "Shape",
+   "read_only": 1
+  },
+  {
+   "fetch_from": "vehicle_details.chassis_number",
+   "fieldname": "chassis_number",
+   "fieldtype": "Link",
+   "label": "Vehicle Chassis no",
+   "options": "Vehicle Details",
+   "reqd": 1,
+   "search_index": 1
+  },
+  {
+   "fieldname": "column_break_5",
+   "fieldtype": "Column Break"
+  },
+  {
+   "depends_on": "eval:doc.status == \"Port\"",
+   "fieldname": "port_location",
+   "fieldtype": "Link",
+   "label": "Port Location",
+   "options": "Port Location"
+  },
+  {
+   "depends_on": "eval:doc.status == \"Port\"",
+   "fieldname": "shed_number",
+   "fieldtype": "Data",
+   "label": "Shed number"
+  },
+  {
+   "depends_on": "eval:doc.status == \"Onship\"",
+   "fieldname": "ship_details",
+   "fieldtype": "Data",
+   "label": "Ship Details"
+  },
+  {
+   "depends_on": "eval: doc.status == \"Inhouse\"",
+   "fieldname": "inhouse_address",
+   "fieldtype": "Data",
+   "label": "Inhouse Address"
+  },
+  {
+   "depends_on": "eval: doc.status == \"Workshop\"",
+   "fieldname": "workshop",
+   "fieldtype": "Data",
+   "label": "Workshop"
+  },
+  {
+   "depends_on": "eval: doc.status == \"Other\"",
+   "fieldname": "other",
+   "fieldtype": "Data",
+   "label": "Other"
+  },
+  {
+   "fieldname": "vehicle_availability",
+   "fieldtype": "Data",
+   "label": "Series",
+   "reqd": 1,
+   "search_index": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "is_submittable": 1,
+ "links": [],
+ "modified": "2022-07-21 10:06:40.808987",
+ "modified_by": "Administrator",
+ "module": "Vehicle Management",
+ "name": "Vehicle Availability",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  },
+  {
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "All",
+   "share": 1
+  }
+ ],
+ "quick_entry": 1,
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "title_field": "vehicle_name",
+ "track_changes": 1
+}

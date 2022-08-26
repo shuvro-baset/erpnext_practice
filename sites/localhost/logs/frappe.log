@@ -1,0 +1,18 @@
+2022-07-12 20:01:04,106 ERROR frappe New Exception collected with id: 2022-07-12 20:01:04.022226-127.0.0.1-e3b
+Site: localhost
+Form Dict: {'doc': '{"name":"LT0001","owner":"Administrator","creation":"2022-07-12 20:00:50.316406","modified":"2022-07-12 20:00:50.316406","modified_by":"Administrator","idx":0,"docstatus":0,"article":"my first article","library_member":"LM0001","type":"Issue","date":"2022-07-13","doctype":"Library Transaction"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-07-12 20:01:20,973 ERROR frappe New Exception collected with id: 2022-07-12 20:01:20.969780-127.0.0.1-078
+Site: localhost
+Form Dict: {'doc': '{"name":"LT0001","owner":"Administrator","creation":"2022-07-12 20:00:50.316406","modified":"2022-07-12 20:00:50.316406","modified_by":"Administrator","idx":0,"docstatus":0,"article":"my first article","library_member":"LM0001","type":"Issue","date":"2022-07-13","doctype":"Library Transaction"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-07-12 20:02:57,810 ERROR frappe New Exception collected with id: 2022-07-12 20:02:57.806952-127.0.0.1-687
+Site: localhost
+Form Dict: {'doc': '{"name":"LT0001","owner":"Administrator","creation":"2022-07-12 20:00:50.316406","modified":"2022-07-12 20:00:50.316406","modified_by":"Administrator","idx":0,"docstatus":0,"article":"my first article","library_member":"LM0001","type":"Issue","date":"2022-07-13","doctype":"Library Transaction","__last_sync_on":"2022-07-12T14:02:52.527Z"}', 'action': 'Submit', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-08-09 10:34:03,250 ERROR frappe New Exception collected with id: 2022-08-09 10:34:03.191426-127.0.0.1-695
+Site: localhost
+Form Dict: {}
+2022-08-09 10:34:12,837 ERROR frappe New Exception collected with id: 2022-08-09 10:34:12.826400-127.0.0.1-bc6
+Site: localhost
+Form Dict: {}
+2022-08-09 10:34:18,554 ERROR frappe New Exception collected with id: 2022-08-09 10:34:18.547097-127.0.0.1-8d2
+Site: localhost
+Form Dict: {}

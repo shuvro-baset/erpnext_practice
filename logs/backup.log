@@ -1,0 +1,234 @@
+Backup Summary for localhost at 2022-06-24 18:00:06.718926
+Config  : ./localhost/private/backups/20220624_180003-localhost-site_config_backup.json 158.0B
+Database: ./localhost/private/backups/20220624_180003-localhost-database.sql.gz         1.3MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-06-26 00:00:05.494835
+Config  : ./localhost/private/backups/20220626_000003-localhost-site_config_backup.json 158.0B
+Database: ./localhost/private/backups/20220626_000003-localhost-database.sql.gz         1.3MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-06-26 18:00:05.347020
+Config  : ./localhost/private/backups/20220626_180002-localhost-site_config_backup.json 158.0B
+Database: ./localhost/private/backups/20220626_180002-localhost-database.sql.gz         1.3MiB
+Backup for Site localhost has been successfully completed
+Backup failed for Site library.test. Database or site_config.json may be corrupted
+Backup failed for Site localhost. Database or site_config.json may be corrupted
+Backup failed for Site library.test. Database or site_config.json may be corrupted
+Backup failed for Site localhost. Database or site_config.json may be corrupted
+Backup failed for Site library.test. Database or site_config.json may be corrupted
+Backup failed for Site localhost. Database or site_config.json may be corrupted
+Backup failed for Site library.test. Database or site_config.json may be corrupted
+Backup failed for Site localhost. Database or site_config.json may be corrupted
+Backup failed for Site library.test. Database or site_config.json may be corrupted
+Backup failed for Site localhost. Database or site_config.json may be corrupted
+Backup failed for Site library.test. Database or site_config.json may be corrupted
+Backup failed for Site localhost. Database or site_config.json may be corrupted
+Backup failed for Site library.test. Database or site_config.json may be corrupted
+Backup failed for Site localhost. Database or site_config.json may be corrupted
+Backup failed for Site library.test. Database or site_config.json may be corrupted
+Backup failed for Site localhost. Database or site_config.json may be corrupted
+Backup failed for Site library.test. Database or site_config.json may be corrupted
+Backup failed for Site localhost. Database or site_config.json may be corrupted
+Backup failed for Site library.test. Database or site_config.json may be corrupted
+Backup failed for Site localhost. Database or site_config.json may be corrupted
+Backup failed for Site library.test. Database or site_config.json may be corrupted
+Backup failed for Site localhost. Database or site_config.json may be corrupted
+Backup Summary for localhost at 2022-07-01 12:00:04.085247
+Config  : ./localhost/private/backups/20220701_120002-localhost-site_config_backup.json 158.0B
+Database: ./localhost/private/backups/20220701_120002-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-02 00:00:05.719522
+Config  : ./localhost/private/backups/20220702_000003-localhost-site_config_backup.json 158.0B
+Database: ./localhost/private/backups/20220702_000003-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-02 12:00:05.289549
+Config  : ./localhost/private/backups/20220702_120002-localhost-site_config_backup.json 158.0B
+Database: ./localhost/private/backups/20220702_120002-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-02 18:00:05.902456
+Config  : ./localhost/private/backups/20220702_180003-localhost-site_config_backup.json 158.0B
+Database: ./localhost/private/backups/20220702_180003-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-03 00:00:04.866891
+Config  : ./localhost/private/backups/20220703_000002-localhost-site_config_backup.json 158.0B
+Database: ./localhost/private/backups/20220703_000002-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-04 00:00:08.307073
+Config  : ./localhost/private/backups/20220704_000003-localhost-site_config_backup.json 158.0B
+Database: ./localhost/private/backups/20220704_000003-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-04 12:00:05.862651
+Config  : ./localhost/private/backups/20220704_120003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220704_120003-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-04 18:00:04.082773
+Config  : ./localhost/private/backups/20220704_180002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220704_180002-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-05 00:00:04.184836
+Config  : ./localhost/private/backups/20220705_000002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220705_000002-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-05 12:00:04.406457
+Config  : ./localhost/private/backups/20220705_120002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220705_120002-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-05 18:00:04.293484
+Config  : ./localhost/private/backups/20220705_180002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220705_180002-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-09 18:00:05.190922
+Config  : ./localhost/private/backups/20220709_180002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220709_180002-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-10 00:00:04.164929
+Config  : ./localhost/private/backups/20220710_000002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220710_000002-localhost-database.sql.gz         1.4MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-10 18:00:04.093437
+Config  : ./localhost/private/backups/20220710_180002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220710_180002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-11 00:00:04.681345
+Config  : ./localhost/private/backups/20220711_000002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220711_000002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-12 00:00:04.290725
+Config  : ./localhost/private/backups/20220712_000002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220712_000002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-12 12:00:05.534329
+Config  : ./localhost/private/backups/20220712_120003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220712_120003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-12 18:00:04.589431
+Config  : ./localhost/private/backups/20220712_180002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220712_180002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-13 00:00:04.759856
+Config  : ./localhost/private/backups/20220713_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220713_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-16 18:00:07.375577
+Config  : ./localhost/private/backups/20220716_180003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220716_180003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-17 00:00:05.043214
+Config  : ./localhost/private/backups/20220717_000002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220717_000002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-19 00:00:06.410021
+Config  : ./localhost/private/backups/20220719_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220719_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-21 00:00:06.499882
+Config  : ./localhost/private/backups/20220721_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220721_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-22 18:00:05.412017
+Config  : ./localhost/private/backups/20220722_180002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220722_180002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-23 00:00:05.925412
+Config  : ./localhost/private/backups/20220723_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220723_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-25 00:00:09.057839
+Config  : ./localhost/private/backups/20220725_000004-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220725_000004-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-27 00:00:05.392537
+Config  : ./localhost/private/backups/20220727_000002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220727_000002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-30 00:00:06.195930
+Config  : ./localhost/private/backups/20220730_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220730_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-30 12:00:06.113280
+Config  : ./localhost/private/backups/20220730_120003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220730_120003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-07-30 18:00:03.864839
+Config  : ./localhost/private/backups/20220730_180002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220730_180002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-01 00:00:09.717249
+Config  : ./localhost/private/backups/20220801_000004-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220801_000004-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-04 00:00:06.352686
+Config  : ./localhost/private/backups/20220804_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220804_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-05 00:00:05.515756
+Config  : ./localhost/private/backups/20220805_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220805_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-05 12:00:05.278132
+Config  : ./localhost/private/backups/20220805_120002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220805_120002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-05 18:00:05.698132
+Config  : ./localhost/private/backups/20220805_180002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220805_180002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-06 12:00:05.225398
+Config  : ./localhost/private/backups/20220806_120002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220806_120002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-09 12:00:05.271741
+Config  : ./localhost/private/backups/20220809_120002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220809_120002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-09 18:00:04.498977
+Config  : ./localhost/private/backups/20220809_180002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220809_180002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-10 00:00:04.346933
+Config  : ./localhost/private/backups/20220810_000002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220810_000002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-11 00:00:06.917783
+Config  : ./localhost/private/backups/20220811_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220811_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-12 18:00:06.552398
+Config  : ./localhost/private/backups/20220812_180003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220812_180003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-13 00:00:06.107667
+Config  : ./localhost/private/backups/20220813_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220813_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-13 18:00:06.258302
+Config  : ./localhost/private/backups/20220813_180003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220813_180003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-16 00:00:05.736988
+Config  : ./localhost/private/backups/20220816_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220816_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-18 12:00:05.412570
+Config  : ./localhost/private/backups/20220818_120003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220818_120003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-19 00:00:05.988492
+Config  : ./localhost/private/backups/20220819_000002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220819_000002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-20 00:00:05.924961
+Config  : ./localhost/private/backups/20220820_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220820_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-20 12:00:05.558535
+Config  : ./localhost/private/backups/20220820_120002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220820_120002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-21 00:00:06.389169
+Config  : ./localhost/private/backups/20220821_000003-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220821_000003-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed
+Backup Summary for localhost at 2022-08-26 12:00:05.923248
+Config  : ./localhost/private/backups/20220826_120002-localhost-site_config_backup.json 188.0B
+Database: ./localhost/private/backups/20220826_120002-localhost-database.sql.gz         1.5MiB
+Backup for Site localhost has been successfully completed

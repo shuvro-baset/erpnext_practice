@@ -1,0 +1,22 @@
+2022-06-24 09:45:46,739 INFO Getting app erpnext
+2022-06-24 09:46:25,719 INFO installing erpnext
+2022-06-24 09:49:15,376 INFO installing frappe
+2022-06-24 09:49:25,725 INFO installing erpnext
+2022-06-26 20:14:37,986 INFO creating new app library_management
+2022-06-26 20:15:13,016 INFO installing library_management
+2022-06-26 20:17:56,088 INFO creating new app library_management
+2022-06-26 20:18:22,657 INFO installing library_management
+2022-06-26 20:18:43,737 INFO creating new app library_management
+2022-06-26 20:19:03,326 INFO installing library_management
+2022-07-04 01:20:42,652 INFO creating new app vehicle_management
+2022-07-04 01:21:30,884 INFO installing vehicle_management
+2022-07-05 12:48:19,012 INFO creating new app library_management
+2022-07-05 12:48:41,409 INFO installing library_management
+2022-07-10 16:16:59,354 INFO creating new app library_management
+2022-07-10 16:17:21,236 INFO installing library_management
+2022-07-10 17:31:07,587 INFO creating new app library_management2
+2022-07-10 17:31:31,818 INFO installing library_management2
+2022-08-09 10:18:40,106 INFO creating new app commercial
+2022-08-09 10:18:58,945 INFO installing commercial
+2022-08-09 10:33:24,043 INFO creating new app commercial
+2022-08-09 10:33:39,346 INFO installing commercial

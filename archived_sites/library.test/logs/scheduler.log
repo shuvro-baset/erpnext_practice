@@ -1,0 +1,160 @@
+2022-06-30 01:27:00,971 DEBUG scheduler Queued events for site library.test
+2022-06-30 01:28:01,384 DEBUG scheduler Queued events for site library.test
+2022-06-30 01:28:01,410 INFO scheduler Scheduled Job Start: frappe.monitor.flush for library.test
+2022-06-30 01:28:01,536 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for library.test
+2022-06-30 01:28:01,585 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for library.test
+2022-06-30 01:28:01,696 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for library.test
+2022-06-30 01:28:01,747 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-06-30 01:28:01,873 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-06-30 01:28:01,920 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-06-30 01:28:02,065 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-06-30 01:28:02,116 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-06-30 01:28:02,270 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-06-30 01:28:02,326 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for library.test
+2022-06-30 01:28:02,439 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for library.test
+2022-06-30 01:29:01,812 DEBUG scheduler Queued events for site library.test
+2022-06-30 01:30:02,198 DEBUG scheduler Queued events for site library.test
+2022-06-30 01:30:02,244 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for library.test
+2022-06-30 01:30:02,493 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for library.test
+2022-06-30 01:30:02,562 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for library.test
+2022-06-30 01:30:02,805 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for library.test
+2022-06-30 01:30:02,860 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for library.test
+2022-06-30 01:30:03,047 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for library.test
+2022-06-30 01:31:02,689 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:20:30,674 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_monthly for library.test
+2022-07-01 10:20:30,676 INFO scheduler Scheduled Job Start: frappe.social.doctype.energy_point_log.energy_point_log.send_monthly_summary for library.test
+2022-07-01 10:20:31,048 INFO scheduler Scheduled Job Complete: frappe.social.doctype.energy_point_log.energy_point_log.send_monthly_summary for library.test
+2022-07-01 10:20:31,110 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:20:31,128 INFO scheduler Scheduled Job Start: frappe.email.doctype.auto_email_report.auto_email_report.send_monthly for library.test
+2022-07-01 10:20:31,162 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_monthly for library.test
+2022-07-01 10:20:31,235 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_drive.google_drive.daily_backup for library.test
+2022-07-01 10:20:31,577 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_drive.google_drive.daily_backup for library.test
+2022-07-01 10:20:31,648 INFO scheduler Scheduled Job Start: frappe.email.doctype.auto_email_report.auto_email_report.send_daily for library.test
+2022-07-01 10:20:31,917 INFO scheduler Scheduled Job Complete: frappe.email.doctype.auto_email_report.auto_email_report.send_monthly for library.test
+2022-07-01 10:20:31,988 INFO scheduler Scheduled Job Start: frappe.core.doctype.log_settings.log_settings.run_log_clean_up for library.test
+2022-07-01 10:20:32,172 INFO scheduler Scheduled Job Complete: frappe.email.doctype.auto_email_report.auto_email_report.send_daily for library.test
+2022-07-01 10:20:32,242 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily for library.test
+2022-07-01 10:20:32,300 INFO scheduler Scheduled Job Complete: frappe.core.doctype.log_settings.log_settings.run_log_clean_up for library.test
+2022-07-01 10:20:32,379 INFO scheduler Scheduled Job Start: frappe.core.doctype.prepared_report.prepared_report.delete_expired_prepared_reports for library.test
+2022-07-01 10:20:32,513 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.s3_backup_settings.s3_backup_settings.take_backups_daily for library.test
+2022-07-01 10:20:32,578 INFO scheduler Scheduled Job Start: frappe.utils.change_log.check_for_update for library.test
+2022-07-01 10:20:32,675 INFO scheduler Scheduled Job Complete: frappe.core.doctype.prepared_report.prepared_report.delete_expired_prepared_reports for library.test
+2022-07-01 10:20:32,761 INFO scheduler Scheduled Job Start: frappe.email.doctype.unhandled_email.unhandled_email.remove_old_unhandled_emails for library.test
+2022-07-01 10:20:32,822 INFO scheduler Scheduled Job Complete: frappe.utils.change_log.check_for_update for library.test
+2022-07-01 10:20:32,882 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_daily for library.test
+2022-07-01 10:20:32,971 INFO scheduler Scheduled Job Complete: frappe.email.doctype.unhandled_email.unhandled_email.remove_old_unhandled_emails for library.test
+2022-07-01 10:20:33,046 INFO scheduler Scheduled Job Start: frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_repeat_as_completed for library.test
+2022-07-01 10:20:33,277 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.dropbox_settings.dropbox_settings.take_backups_daily for library.test
+2022-07-01 10:20:33,339 INFO scheduler Scheduled Job Complete: frappe.automation.doctype.auto_repeat.auto_repeat.set_auto_repeat_as_completed for library.test
+2022-07-01 10:20:33,406 INFO scheduler Scheduled Job Start: frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry for library.test
+2022-07-01 10:20:33,658 INFO scheduler Scheduled Job Complete: frappe.automation.doctype.auto_repeat.auto_repeat.make_auto_repeat_entry for library.test
+2022-07-01 10:20:33,722 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_contacts.google_contacts.sync for library.test
+2022-07-01 10:20:34,072 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_contacts.google_contacts.sync for library.test
+2022-07-01 10:20:34,138 INFO scheduler Scheduled Job Start: frappe.social.doctype.energy_point_settings.energy_point_settings.allocate_review_points for library.test
+2022-07-01 10:20:34,337 INFO scheduler Scheduled Job Complete: frappe.social.doctype.energy_point_settings.energy_point_settings.allocate_review_points for library.test
+2022-07-01 10:20:34,402 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_daily_updates for library.test
+2022-07-01 10:20:34,624 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_daily_updates for library.test
+2022-07-01 10:20:34,685 INFO scheduler Scheduled Job Start: frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record for library.test
+2022-07-01 10:20:34,878 INFO scheduler Scheduled Job Complete: frappe.website.doctype.personal_data_deletion_request.personal_data_deletion_request.remove_unverified_record for library.test
+2022-07-01 10:20:34,962 INFO scheduler Scheduled Job Start: frappe.utils.scheduler.restrict_scheduler_events_if_dormant for library.test
+2022-07-01 10:20:35,166 INFO scheduler Scheduled Job Failed: frappe.utils.scheduler.restrict_scheduler_events_if_dormant for library.test
+2022-07-01 10:20:35,236 INFO scheduler Scheduled Job Start: frappe.email.doctype.notification.notification.trigger_daily_alerts for library.test
+2022-07-01 10:20:35,438 INFO scheduler Scheduled Job Complete: frappe.email.doctype.notification.notification.trigger_daily_alerts for library.test
+2022-07-01 10:20:35,509 INFO scheduler Scheduled Job Start: frappe.sessions.clear_expired_sessions for library.test
+2022-07-01 10:20:35,709 INFO scheduler Scheduled Job Complete: frappe.sessions.clear_expired_sessions for library.test
+2022-07-01 10:20:35,773 INFO scheduler Scheduled Job Start: frappe.desk.doctype.event.event.send_event_digest for library.test
+2022-07-01 10:20:36,012 INFO scheduler Scheduled Job Complete: frappe.desk.doctype.event.event.send_event_digest for library.test
+2022-07-01 10:20:36,087 INFO scheduler Scheduled Job Start: frappe.core.doctype.error_log.error_log.set_old_logs_as_seen for library.test
+2022-07-01 10:20:36,294 INFO scheduler Scheduled Job Complete: frappe.core.doctype.error_log.error_log.set_old_logs_as_seen for library.test
+2022-07-01 10:20:36,363 INFO scheduler Scheduled Job Start: frappe.desk.notifications.clear_notifications for library.test
+2022-07-01 10:20:36,570 INFO scheduler Scheduled Job Complete: frappe.desk.notifications.clear_notifications for library.test
+2022-07-01 10:20:36,633 INFO scheduler Scheduled Job Start: frappe.email.queue.set_expiry_for_email_queue for library.test
+2022-07-01 10:20:36,844 INFO scheduler Scheduled Job Complete: frappe.email.queue.set_expiry_for_email_queue for library.test
+2022-07-01 10:20:36,909 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for library.test
+2022-07-01 10:20:37,186 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for library.test
+2022-07-01 10:20:37,260 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for library.test
+2022-07-01 10:20:37,572 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for library.test
+2022-07-01 10:20:37,636 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for library.test
+2022-07-01 10:20:37,853 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for library.test
+2022-07-01 10:20:37,924 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for library.test
+2022-07-01 10:20:38,156 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for library.test
+2022-07-01 10:20:38,299 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for library.test
+2022-07-01 10:20:38,587 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for library.test
+2022-07-01 10:20:38,679 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for library.test
+2022-07-01 10:20:39,055 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for library.test
+2022-07-01 10:20:39,124 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for library.test
+2022-07-01 10:20:39,340 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for library.test
+2022-07-01 10:20:39,434 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for library.test
+2022-07-01 10:20:39,677 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for library.test
+2022-07-01 10:20:39,756 INFO scheduler Scheduled Job Start: frappe.monitor.flush for library.test
+2022-07-01 10:20:39,888 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for library.test
+2022-07-01 10:20:39,970 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for library.test
+2022-07-01 10:20:40,158 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for library.test
+2022-07-01 10:20:40,265 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-07-01 10:20:40,512 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-07-01 10:20:40,584 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-07-01 10:20:40,841 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-07-01 10:20:40,900 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-07-01 10:20:41,098 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-07-01 10:20:41,157 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for library.test
+2022-07-01 10:20:41,297 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for library.test
+2022-07-01 10:20:41,356 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for library.test
+2022-07-01 10:20:41,573 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for library.test
+2022-07-01 10:20:41,637 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for library.test
+2022-07-01 10:20:41,933 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for library.test
+2022-07-01 10:20:41,999 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for library.test
+2022-07-01 10:20:42,284 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for library.test
+2022-07-01 10:21:33,618 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:24:13,800 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:24:13,818 INFO scheduler Scheduled Job Start: frappe.monitor.flush for library.test
+2022-07-01 10:24:14,112 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for library.test
+2022-07-01 10:24:14,182 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for library.test
+2022-07-01 10:24:14,326 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for library.test
+2022-07-01 10:24:14,386 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-07-01 10:24:14,608 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-07-01 10:24:14,670 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-07-01 10:24:14,919 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-07-01 10:24:14,977 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-07-01 10:24:15,158 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-07-01 10:24:15,222 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for library.test
+2022-07-01 10:24:15,356 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for library.test
+2022-07-01 10:25:14,503 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:26:14,890 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:27:15,289 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:28:15,653 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:28:15,679 INFO scheduler Scheduled Job Start: frappe.monitor.flush for library.test
+2022-07-01 10:28:15,820 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for library.test
+2022-07-01 10:28:15,883 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for library.test
+2022-07-01 10:28:16,023 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for library.test
+2022-07-01 10:28:16,084 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-07-01 10:28:16,253 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-07-01 10:28:16,318 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-07-01 10:28:16,501 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-07-01 10:28:16,562 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-07-01 10:28:16,745 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-07-01 10:28:16,808 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for library.test
+2022-07-01 10:28:16,944 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for library.test
+2022-07-01 10:29:16,120 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:30:16,515 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:30:16,565 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for library.test
+2022-07-01 10:30:16,896 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for library.test
+2022-07-01 10:30:16,962 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for library.test
+2022-07-01 10:30:17,223 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for library.test
+2022-07-01 10:30:17,278 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for library.test
+2022-07-01 10:30:17,494 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for library.test
+2022-07-01 10:31:16,926 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:32:17,338 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:32:17,357 INFO scheduler Scheduled Job Start: frappe.monitor.flush for library.test
+2022-07-01 10:32:17,494 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for library.test
+2022-07-01 10:32:17,558 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for library.test
+2022-07-01 10:32:17,690 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for library.test
+2022-07-01 10:32:17,749 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-07-01 10:32:17,905 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for library.test
+2022-07-01 10:32:17,970 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-07-01 10:32:18,145 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for library.test
+2022-07-01 10:32:18,204 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-07-01 10:32:18,386 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for library.test
+2022-07-01 10:32:18,451 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for library.test
+2022-07-01 10:32:18,589 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for library.test
+2022-07-01 10:33:17,780 DEBUG scheduler Queued events for site library.test
+2022-07-01 10:34:18,143 DEBUG scheduler Queued events for site library.test

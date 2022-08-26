@@ -1,0 +1,39 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2022-07-20 12:14:37.119071",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "vehicle_item",
+  "item_price"
+ ],
+ "fields": [
+  {
+   "fieldname": "vehicle_item",
+   "fieldtype": "Link",
+   "label": "Vehicle Item",
+   "options": "Vehicle Item"
+  },
+  {
+   "fieldname": "item_price",
+   "fieldtype": "Currency",
+   "in_list_view": 1,
+   "label": "Item Price",
+   "non_negative": 1,
+   "reqd": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2022-07-20 13:27:31.384481",
+ "modified_by": "Administrator",
+ "module": "Vehicle Management",
+ "name": "Customize",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}
